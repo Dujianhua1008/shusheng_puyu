@@ -1,6 +1,6 @@
 这是书生浦语暑期实训 记录贴
 
-欢迎大家参与[项目](https://github.com/InternLM/Tutorial)
+欢迎大家参与[大模型实训营](https://github.com/InternLM/Tutorial)
 
 这个记录贴用于记录培训课程中的debug过程
 
